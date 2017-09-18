@@ -5,6 +5,12 @@ For each reading, pick two sentence/passages. One should be where the had an AHA
  
 
 ### 2017-09-18: Distant reading
+AHA!: "The trouble is that Moretti isn’t studying a science. Literature is an artificial universe, and the written word, unlike the natural world, can’t be counted on to obey a set of laws"- This sentence points out one of the main problems with analyzing literature and art merely through statistics or distant reading without the proper context.
+
+Confusing: "You might know your George Eliot from your George Meredith, but you won’t have learned anything meaningful about literature, because your sample size is absurdly small"- Although I understand Moretti's argument, he undermines the importance of specific knowledge over generalized knowledge. Is knowing little about many things better than knowing much about few things?
+
+
+
 
 ### 2017-09-25: Topic modeling I
 
