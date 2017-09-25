@@ -13,6 +13,9 @@ Confusing: "You might know your George Eliot from your George Meredith, but you 
 
 
 ### 2017-09-25: Topic modeling I
+AHA!: "One way to think about how the process of topic modeling works is to imagine working through an article with a set of highlighters. As you read through the article, you use a different color for the key words of themes within the paper as you come across them."- This is a good way to think visualize how topic modeling works
+
+Confusing: "Topic modeling is not necessarily useful as evidence but it makes an excellent tool for discovery."- It seems a little contradictory that although topic modeling is a good tool for discovery it cannot be necessarily useful as evidence. I understanding this to mean that topic modeling is not always exact and that is why it cannot always be used as evidence; yet, this is a feature of most evidence in the humanities and social sciences. 
 
 ### 2017-10-02: Topic Modeling II
 
