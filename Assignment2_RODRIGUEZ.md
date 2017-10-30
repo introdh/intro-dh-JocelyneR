@@ -8,16 +8,16 @@ chose to find a total of 25 topics being that it is a large enough number of top
 topics found and draw conclusions about the corpus, yet it is also small enough that it is easy to produce a comprehensible 
 visual model that does not show too much overlap and avoids unnecessary repetition.
 
-  The results of topi modeling for the American Jouranl of Political Science showed the main topics of concern between 1992 
+  The results of topic modeling for the American Jouranl of Political Science showed the main topics of concern between 1992 
  and 2012 have not changed too much since they remain a current topic of interest today. Although there were 25 different 
  topics, they all seemed to fall into one of these categories: decision making and bill passing, elections and turnout,
  foreign and public policy, and media coverage and public opinion. During the recent past presidential elections foreign and 
  public policy were two of the main issues being debated by the candidates. Also, after the results discourse regarding
  election and turnout theories became a central topic of discussion as well as public opinion and bill passing as we discussed
  new legislative changes supported by the new president and the public's reaction. Nonetheless, these topics of interest are 
- not unique to a short post-electoral period. The results of this topic model show that these the previously mentioned topics
- have been a constant subject of interest between 1992 and 2012 as well, which mean they are not unique to today's political 
- scene. 
+ not unique to a short post-electoral period or current events of 2017. The results of this topic model show that the 
+ previously mentioned topicshave been a constant subject of interest between 1992 and 2012 as well, which means they are not 
+ unique to today's political scene. 
 
   Further possibilities for research on the American Journal of Political Science using topic modeling would be to investigate
   topics in the journal using a bigger corpus covering a greater time period. I wonder if using a corpus that covered a biger 
