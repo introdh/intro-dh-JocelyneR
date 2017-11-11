@@ -24,7 +24,7 @@ social issues such as redlining (Hillier, Red Lining in Philadelphia, 2002). Fur
 States, it has been found that race has a big impact in the opportunities and living conditions of people. For this reason, 
 while Figure 1 shows objective spacial relations in location (place), Figure 2 shows block groups in connection to their 
 racial composition which reflects an additional layer in identity and the subjective experience that results from this extra 
-layer (space). 
+layer (space). Figure 3 shows the overlapping of figures 1 and 2 with a 50% transparency.
 
 
 While studying Figure 1 in connection to other projects such as Mapping Inequality and Social Explorer I found a certain 
