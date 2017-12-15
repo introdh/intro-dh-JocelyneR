@@ -2,7 +2,7 @@
 
 1. List of Participants
 2. Abstract
-3. Narrative
+3. Narrative:
 	A. Enhancing the humanities
 	B. Environmental Scan
 	C. History of Project
@@ -164,10 +164,10 @@ research period.
 
 # Staff
 
-Jocelyne Rodriguez: Political Science undergrad student
-Prof. Lauren Tilton: Digital Humanties advisor
-Prof. Ernest McGowen: Political Behavior advisor
-Nicolas Martinez: IWPR final reviewer 
+Jocelyne Rodriguez: Political Science undergrad student;
+Prof. Lauren Tilton: Digital Humanties advisor;
+Prof. Ernest McGowen: Political Behavior advisor;
+Nicolas Martinez: IWPR final reviewer;
 
 # Dissemination
 
