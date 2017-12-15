@@ -173,9 +173,12 @@ research period.
 
 # Staff
 
-Jocelyne Rodriguez: Political Science undergrad student;
-Prof. Lauren Tilton: Digital Humanties advisor;
-Prof. Ernest McGowen: Political Behavior advisor;
+Project director: Jocelyne Rodriguez (Political Science undergrad student)- salary paid from grant
+	Time commitment: 10 hrs a week for 6 months
+
+Advosory board:
+Prof. Lauren Tilton: Digital Humanties advisor (function: monthly progress review);
+Prof. Ernest McGowen: Political Behavior advisor (function: monthly progress review);
 Nicolas Martinez: IWPR final reviewer;
 
 # Dissemination
