@@ -43,9 +43,9 @@ These statistics showed the United States are falling behind in gender equality 
 
 Gender inequality in political representation presents a problematic aspect of our current political system that 
 brings up the question of possible solutions. When questioning different approaches to increase the number of female political 
-representatives, one finds theoretical puzzle. Current political theories recommend seemingly contradictory approaches in the 
-design of female political campaigns. There are two famous theories in political behavior for women running for office. The 
-first theory recommends that women should appear more feminine when running for office. This theory is based on the belief 
+representatives, one finds a theoretical puzzle. Current political theories recommend seemingly contradictory approaches in 
+the design of female political campaigns. There are two famous theories in political behavior for women running for office. 
+The first theory recommends that women should appear more feminine when running for office. This theory is based on the belief 
 that women who play to their gender and appear more feminine during campaigns tend to be more popular among feminist voters 
 (Dolan, 1998) at the same time they meet voter expectation by behaving the way most voters would expect them to behave 
 according to traditional social expectations. The second theory recommends women should try to appear less feminine when 
